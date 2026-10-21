@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MauiAppMeuCombustivel.AppHost/MauiAppMeuCombustivel.AppHost.csproj" />
+  <Project Path="MauiAppMeuCombustivel.ServiceDefaults/MauiAppMeuCombustivel.ServiceDefaults.csproj" />
+  <Project Path="MauiAppMeuCombustivel/MauiAppMeuCombustivel.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
